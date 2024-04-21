@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
- <img src="Github Banner.png" />
+ <img src="Github_Banner_1_1280x720.png" />
 </h1>
 <!--
 **Youssra1999/Youssra1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
