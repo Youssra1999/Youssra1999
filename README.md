@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Youssra Abouelmawahib</h1>
 <h3 align="center">A passionate Data Scientist from Morocco</h3>
 
-<img="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif"> 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif"> 
 
 
 
