@@ -1,11 +1,7 @@
-### Hi there 👋
-
-
 <h1 align="center">
  <img src="Github_Banner_1_1280x720.png" />
 </h1>
-
-
+###Hi 👋, I'm Youssra Abouelmawahib
 - 🔭 I’m currently working on data analysis projects.
 - 🌱 I’m currently learning machine learning algorithms and techniques.
 - 👯 I’m looking to collaborate on open-source data science projects.
