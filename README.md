@@ -2,13 +2,10 @@
 <h1 align="center">Hi 👋, I'm Youssra Abouelmawahib</h1>
 <h3 align="center">A passionate Data Scientist from Morocco</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif"> 
-
-
-
-
-
 <p align="left"> <img src="Github_Banner_1_1280x720.png" alt="youssra1999" /> </p>
+
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssra1999" alt="youssra1999" /></a> </p>
 
