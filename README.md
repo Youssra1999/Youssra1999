@@ -4,17 +4,15 @@
 <h1 align="center">
  <img src="Github_Banner_1_1280x720.png" />
 </h1>
-<!--
-**Youssra1999/Youssra1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on data analysis projects.
+- 🌱 I’m currently learning machine learning algorithms and techniques.
+- 👯 I’m looking to collaborate on open-source data science projects.
+- 🤔 I’m looking for help with deploying machine learning models.
+- 💬 Ask me about data visualization and exploratory data analysis.
+- 📫 How to reach me: [Insert your preferred contact method or link to your website/portfolio].
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a big fan of sci-fi novels and movies.
+
+
