@@ -5,12 +5,10 @@
 <p align="left"> <img src="Github_Banner_1_1280x720.png" alt="youssra1999" /> </p>
 
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif"> 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssra1999" alt="youssra1999" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif"> 
 - 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **NLP , AI ,Generative models**
