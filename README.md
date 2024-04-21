@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Banner Image](Github Banner.png)
+![Alt Text](Github Banner.png)
 
 <!--
 **Youssra1999/Youssra1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
