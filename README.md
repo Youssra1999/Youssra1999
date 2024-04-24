@@ -16,12 +16,12 @@
   <tr>
   <td width="50%">
 
-  <br><p align="left">&nbsp; &nbsp; I'm passionate about technology... I work with DevOps culture, I'm interested in cloud computing, automation, programming and information security.<br><br>
-  [![Medium](https://img.shields.io/badge/Medium-369?style=flat-square&logo=medium&logoColor=white&color=purple)](https://medium.com/@fschorn)
-  [![E-Mail](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://mailhide.io/e/5LKify3d)
-  ![Visits](https://komarev.com/ghpvc/?username=fabioschorn&color=red&style=flat-square&label=Visits)
+  <br><p align="left">&nbsp; &nbsp; I'm passionate aboutData Science ... , I'm interested in NLP , Generative AI , programming and UI/UX Design .<br><br>
+  [![Medium](https://img.shields.io/badge/Medium-369?style=flat-square&logo=medium&logoColor=white&color=purple)](https://medium.com/@abouelmawahib.youssra.19999)
+  [![E-Mail](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://mailhide.io/e/7kKCtuHe)
+  
   <br>
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fabioschorn)
+  
 </p>
   </td>
   <td width="50%">
