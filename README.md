@@ -57,9 +57,6 @@
   </table>
 
 
-
-
-
 - 🌱 I’m currently learning Data Science
 
 - 💬 Ask me about **NLP , AI ,Generative models**
