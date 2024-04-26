@@ -16,7 +16,14 @@
   <tr>
   <td width="50%">
 
-  <br><p align="left">&nbsp; &nbsp; I'm passionate aboutData Science ... , I'm interested in NLP , Generative AI , programming and UI/UX Design .<br><br>
+  <br><p align="left">&nbsp; &nbsp; I'm passionate about Data Science ... , I'm interested in NLP , Generative AI , programming and UI/UX Design . - 🌱 I’m currently 
+    learning Data Science
+
+- 💬 Ask me about **NLP , AI ,Generative models**
+
+- 📫 How to reach me **youssra.abouelmawahib.19999@gmail.com**
+
+- ⚡ Fun fact **I think am funny**<br><br>
   [![Medium](https://img.shields.io/badge/Medium-369?style=flat-square&logo=medium&logoColor=white&color=purple)](https://medium.com/@abouelmawahib.youssra.19999)
   [![E-Mail](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://mailhide.io/e/7kKCtuHe)
   
@@ -55,15 +62,7 @@
   </td>
   </tr>
   </table>
-
-
-- 🌱 I’m currently learning Data Science
-
-- 💬 Ask me about **NLP , AI ,Generative models**
-
-- 📫 How to reach me **youssra.abouelmawahib.19999@gmail.com**
-
-- ⚡ Fun fact **I think am funny**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
