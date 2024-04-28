@@ -19,7 +19,7 @@
   <br><p align="left">&nbsp; &nbsp; I'm passionate about Data Science ... , I'm interested in NLP , Generative AI , programming and UI/UX Design . - 🌱 I’m currently 
     learning Data Science
 
-- 💬 Ask me about **NLP , AI ,Generative models**
+- 💬 Ask me about **NLP , AI ,Generative models , Prompt Engineering **
 
 - 📫 How to reach me **youssra.abouelmawahib.19999@gmail.com**
 
