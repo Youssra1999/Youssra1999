@@ -11,7 +11,7 @@
 <table width="100%">
   <tr>
   <th>About me</th>
-  <th>Technologies I :+1:...</th>
+  <th>Technologies </th>
   </tr>
   <tr>
   <td width="50%">
