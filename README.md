@@ -46,6 +46,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
    <a href="https://www.tensorflow.org/api_docs" target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnG6dJv4-THd3fvrEqLTs6Z75NLfpP9IBjnnNntRLz-VhvfOgbKl_ZBYWOhIzSQiKuIOIRKpBIhXQtsfFTmKu2a8tsvSIIRF6Cl-QkJJR3Rb2QKBFIPzOQgG-zToE7zU1Orn4o-cau7cM/s1600/1_b4otA55Us-hoI57lqUfplA.png" alt="tensorflow" width="40" height="40"/> </a>
+   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt=javascript" width="40" height="40"/> </a>
+   <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://thedataengineer.blog/assets/img/posts/ssislogo.png" alt=ssis" width="40" height="40"/> </a>
  </p>
 
   </td>
