@@ -21,7 +21,6 @@
 
 - 💬 Ask me about  NLP , AI ,Generative models , Prompt Engineering 
 
-- 📫 How to reach me **youssra.abouelmawahib.19999@gmail.com**
 
   [![Medium](https://img.shields.io/badge/Medium-369?style=flat-square&logo=medium&logoColor=white&color=purple)](https://medium.com/@abouelmawahib.youssra.19999)
   [![E-Mail](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://mailhide.io/e/7kKCtuHe)
