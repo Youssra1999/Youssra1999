@@ -55,7 +55,7 @@
   <tr>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youssra1999&theme=tokyonight&count_private=true&show_icons=true&locale=en" alt="youssra1999" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=youssra1999&show_icons=true&theme=dark" alt="youssra1999" /></p>
   </td>
   <td width = "50%">
   <br>
@@ -76,7 +76,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssra1999&" alt="youssra1999" /></p>
 
-![Hesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssra1999&show_icons=true&theme=dark)
 ## Join the Guild of Visionaries:
 ![Profile views](https://komarev.com/ghpvc/?username=youssra1999)
 ![Followers](https://img.shields.io/github/followers/youssra1999?style=social)
