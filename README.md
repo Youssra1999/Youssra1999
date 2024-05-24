@@ -77,6 +77,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssra1999&" alt="youssra1999" /></p>
 
 ## Join the Guild of Visionaries:
-![Profile views](https://komarev.com/ghpvc/?username=h9-tect)
-![Followers](https://img.shields.io/github/followers/h9-tect?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=youssra1999)
+![Followers](https://img.shields.io/github/followers/youssra1999?style=social)
 
