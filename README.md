@@ -73,9 +73,8 @@
 </p>
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssra1999&theme=dark)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssra1999&" alt="youssra1999" /></p>
 
 ## Join the Guild of Visionaries:
 ![Profile views](https://komarev.com/ghpvc/?username=youssra1999)
