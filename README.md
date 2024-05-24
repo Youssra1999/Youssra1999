@@ -76,6 +76,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssra1999&" alt="youssra1999" /></p>
 
+![Hesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssra1999&show_icons=true&theme=dark)
 ## Join the Guild of Visionaries:
 ![Profile views](https://komarev.com/ghpvc/?username=youssra1999)
 ![Followers](https://img.shields.io/github/followers/youssra1999?style=social)
