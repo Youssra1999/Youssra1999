@@ -32,25 +32,25 @@
   </td>
   <td width="50%">
 
- <p align = "center">
-  <a 
+<p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/docs/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="Terraform" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/docs/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="40" height="40"/> </a>
   <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/0.21/documentation.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="sickitlearn" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/0.21/documentation.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
-   <a href="https://www.tensorflow.org/api_docs" target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnG6dJv4-THd3fvrEqLTs6Z75NLfpP9IBjnnNntRLz-VhvfOgbKl_ZBYWOhIzSQiKuIOIRKpBIhXQtsfFTmKu2a8tsvSIIRF6Cl-QkJJR3Rb2QKBFIPzOQgG-zToE7zU1Orn4o-cau7cM/s1600/1_b4otA55Us-hoI57lqUfplA.png" alt="tensorflow" width="40" height="40"/> </a>
-   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt=javascript" width="40" height="40"/> </a>
-   <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://thedataengineer.blog/assets/img/posts/ssislogo.png" alt=ssis" width="40" height="40"/> </a>
-   <a href="https://networkx.org/" target="_blank" rel="noreferrer"> <img src="https://networkx.org/_static/networkx_logo.svg" alt=networkxx" width="40" height="40"/> </a>
-    <a href="https://colab.google/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt=googlecolab" width="40" height="40"/> </a>
- </p>
+  <a href="https://www.tensorflow.org/api_docs" target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnG6dJv4-THd3fvrEqLTs6Z75NLfpP9IBjnnNntRLz-VhvfOgbKl_ZBYWOhIzSQiKuIOIRKpBIhXQtsfFTmKu2a8tsvSIIRF6Cl-QkJJR3Rb2QKBFIPzOQgG-zToE7zU1Orn4o-cau7cM/s1600/1_b4otA55Us-hoI57lqUfplA.png" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://thedataengineer.blog/assets/img/posts/ssislogo.png" alt="ssis" width="40" height="40"/> </a>
+  <a href="https://networkx.org/" target="_blank" rel="noreferrer"> <img src="https://networkx.org/_static/networkx_logo.svg" alt="networkx" width="40" height="40"/> </a>
+  <a href="https://colab.google/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="google colab" width="40" height="40"/> </a>
+</p>
+
 
   </td>
   <tr>
