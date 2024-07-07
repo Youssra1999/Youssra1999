@@ -33,13 +33,14 @@ I'm Youssra Abouelmawahib, a data science enthusiast driven by a love for solvin
 </p>
 
 ## Projects
-### Project 1: [Title](link)
-- Description: Briefly describe the project, its goals, and your role.
-- Technologies: List the main technologies used.
+### Project 1: Mauna Loa CO2 Concentrations Analysis
+- Description: This project focuses on analyzing Mauna Loa CO2 concentration data using time series analysis techniques. The goal is to identify trends, seasonality, and make future predictions of CO2 levels. My role involved data preprocessing, exploratory data analysis, model development, and evaluation.
+- Technologies: Python, Pandas, NumPy, Matplotlib, Statsmodels, Jupyter Notebook
 
-### Project 2: [Title](link)
-- Description: Briefly describe the project, its goals, and your role.
-- Technologies: List the main technologies used.
+### Project 2: CPI and BER Data Analysis
+- Description: This project aims to analyze the Consumer Price Index (CPI) and Break-even Rate (BER) data to understand inflation trends and predict future CPI values. The project involves data preprocessing, detrending, modeling with ARIMA and SARIMAX, and evaluating model performance. My role included developing the entire analysis pipeline, from data cleaning to model validation.
+- Technologies: Python, Pandas, NumPy, Matplotlib, Statsmodels, Bokeh, Jupyter Notebook
+
 
 ## GitHub Stats
 <p align="center">
