@@ -32,7 +32,7 @@ I'm Youssra Abouelmawahib, a data science enthusiast driven by a love for solvin
   <a href="https://colab.google/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="google colab" width="40" height="40"/> </a>
 </p>
 
-## Projects
+## Recent Projects Highlights
 ### Project 1: Mauna Loa CO2 Concentrations Analysis
 - Description: This project focuses on analyzing Mauna Loa CO2 concentration data using time series analysis techniques. The goal is to identify trends, seasonality, and make future predictions of CO2 levels. My role involved data preprocessing, exploratory data analysis, model development, and evaluation.
 - Technologies: Python, Pandas, NumPy, Matplotlib, Statsmodels, Jupyter Notebook
