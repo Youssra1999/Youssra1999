@@ -1,4 +1,5 @@
-![logo](Github Banner (1).png)  
+
+![logo](Github_Banner_(1) 1280x720.png)
 
 <h1 align="center">Hello World 👋</h1>
 <h3 align="center">A passionate Data Scientist from Morocco</h3>
