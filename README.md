@@ -33,16 +33,6 @@ I'm Youssra Abouelmawahib, a data science enthusiast driven by a love for solvin
   <a href="https://colab.google/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="google colab" width="40" height="40"/> </a>
 </p>
 
-## Recent Projects Highlights
-### Project 1: Mauna Loa CO2 Concentrations Analysis
-- Description: This project focuses on analyzing Mauna Loa CO2 concentration data using time series analysis techniques. The goal is to identify trends, seasonality, and make future predictions of CO2 levels. My role involved data preprocessing, exploratory data analysis, model development, and evaluation.
-- Technologies: Python, Pandas, NumPy, Matplotlib, Statsmodels, Jupyter Notebook
-
-### Project 2: CPI and BER Data Analysis
-- Description: This project aims to analyze the Consumer Price Index (CPI) and Break-even Rate (BER) data to understand inflation trends and predict future CPI values. The project involves data preprocessing, detrending, modeling with ARIMA and SARIMAX, and evaluating model performance. My role included developing the entire analysis pipeline, from data cleaning to model validation.
-- Technologies: Python, Pandas, NumPy, Matplotlib, Statsmodels, Bokeh, Jupyter Notebook
-
-
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=youssra1999&show_icons=true&theme=dark" alt="youssra1999" />
