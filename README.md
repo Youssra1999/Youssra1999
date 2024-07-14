@@ -35,7 +35,7 @@ I'm Youssra Abouelmawahib, a data science enthusiast driven by a love for solvin
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://miro.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/miro-new3374.logowik.com.webp " alt="miro" width="40" height="40"/> </a>
+  <a href="https://miro.com/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idAnDTFapY/idFdbEywEz.svg?updated=1720164005494 " alt="miro" width="40" height="40"/> </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
