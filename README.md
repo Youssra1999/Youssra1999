@@ -50,7 +50,7 @@ I'm Youssra Abouelmawahib, a data science enthusiast driven by a love for solvin
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=youssra1999&show_icons=true&theme=dark" alt="youssra1999" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssra1999&layout=compact&show_icons=true&theme=tokyonight&locale=en&count_private=true&langs_count=6" alt="youssra1999" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssra1999&layout=compact&show_icons=true&theme=merko&locale=en&count_private=true&langs_count=6" alt="youssra1999" />
 </p>
 
 
