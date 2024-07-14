@@ -52,10 +52,15 @@ I'm Youssra Abouelmawahib, a data science enthusiast driven by a love for solvin
   <img src="https://github-readme-stats.vercel.app/api?username=youssra1999&show_icons=true&theme=dark" alt="youssra1999" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssra1999&layout=compact&show_icons=true&theme=tokyonight&locale=en&count_private=true&langs_count=6" alt="youssra1999" />
 </p>
+
+
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssra1999&theme=dark)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssra1999&theme=dark" alt="GitHub Streak" />
 </p>
-## Connect with Me
+
+
+
+## Connect with Me 
 <p align="left">
   <a href="https://linkedin.com/in/youssra-abouelmawahib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssra abouelmawahib" height="30" width="40" /></a>
   <a href="https://fb.com/youssra ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssra ab" height="30" width="40" /></a>
