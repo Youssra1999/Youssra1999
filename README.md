@@ -1,4 +1,4 @@
-< ! ![logo](Github%20Banner%20Youssra.png) ! >
+< !-- ![logo](Github%20Banner%20Youssra.png) -- >
 
 <h1 align="center">Hello World 👋</h1>
 <h3 align="center">A passionate Data Scientist from Morocco</h3>
