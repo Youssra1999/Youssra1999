@@ -1,6 +1,6 @@
 <!-- ![logo](Github%20Banner%20Youssra.png) -->
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hello World 👋</h1>
 <h3 align="center">A passionate Data Scientist from Morocco</h3>
 
