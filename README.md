@@ -12,7 +12,7 @@
 I'm Youssra Abouelmawahib, a data science enthusiast driven by a love for solving complex problems and uncovering insights from data. My journey in data science is fueled by my curiosity and desire to make a positive impact through innovative solutions.
 
 - 🌱 I’m currently learning advanced Data Science techniques and exploring the fields of NLP, Generative AI, and Prompt Engineering.
-- 💬 Ask me about NLP, AI, Generative models, and Prompt Engineering.
+- 💬 Ask me about AI, Generative models, and Prompt Engineering.
 - 📫 How to reach me: [youssra.abouelmawahib.19999@gmail.com](mailto:youssra.abouelmawahib.19999@gmail.com)
 
 ## Technologies and Tools
