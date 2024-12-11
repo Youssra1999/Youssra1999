@@ -1,52 +1,41 @@
 <!-- ![logo](Github%20Banner%20Youssra.png) -->
 
-
-<h1 align="center">Hello World 👋</h1>
-<h3 align="center">A passionate Data Scientist from Morocco</h3>
+<h1 align="center">Hello World 🌍</h1>
+<h3 align="center">Harnessing AI for Sustainable Agriculture and Climate Action</h3>
 
 <p align="left"> 
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
 </p>
 
 ## About Me
-I'm Youssra Abouelmawahib, a data science enthusiast driven by a love for solving complex problems and uncovering insights from data. My journey in data science is fueled by my curiosity and desire to make a positive impact through innovative solutions.
+I'm Youssra Abouelmawahib, a data scientist passionate about leveraging artificial intelligence to drive sustainable solutions in agriculture and environmental conservation. My mission is to contribute to the fight against climate change by applying cutting-edge technologies to enhance decision-making, optimize resource use, and protect our planet.
 
-- 🌱 I’m currently learning advanced Data Science techniques and exploring the fields of NLP, Generative AI, and Prompt Engineering.
-- 💬 Ask me about AI, Generative models, and Prompt Engineering.
+- 🌱 I’m currently exploring AI applications in agriculture and environmental monitoring, with a focus on generative AI and geospatial analysis.
+- 🌾 I'm passionate about developing solutions that help farmers adapt to climate change and improve crop yields.
+- 🌎 Ask me about AI for climate action, data-driven sustainability, and environmental analytics.
 - 📫 How to reach me: [youssra.abouelmawahib.19999@gmail.com](mailto:youssra.abouelmawahib.19999@gmail.com)
 
 ## Technologies and Tools
 <p align="center">
   <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/> </a>
-  <!-- Data Science and Machine Learning -->
-  <a href="https://pytorch.org/docs/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/api_docs" target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnG6dJv4-THd3fvrEqLTs6Z75NLfpP9IBjnnNntRLz-VhvfOgbKl_ZBYWOhIzSQiKuIOIRKpBIhXQtsfFTmKu2a8tsvSIIRF6Cl-QkJJR3Rb2QKBFIPzOQgG-zToE7zU1Orn4o-cau7cM/s1600/1_b4otA55Us-hoI57lqUfplA.png" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/0.21/documentation.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/docs/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="40" height="40"/> </a>
+  <!-- Geospatial and Environmental Tools -->
+  <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Google_Earth_Engine_Logo.png" alt="Google Earth Engine" width="40" height="40"/> </a>
+  <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/QGIS_logo_new.png" alt="QGIS" width="40" height="40"/> </a>
   <!-- Data Visualization -->
   <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="40" height="40"/> </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <!-- Cloud and DevOps -->
-  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <!-- Collaboration and Design -->
-  <a href="https://miro.com/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idAnDTFapY/idFdbEywEz.svg?updated=1720164005494 " alt="miro" width="40" height="40"/> </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo..png" alt="canva" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> </a>
-  <!-- Others -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://thedataengineer.blog/assets/img/posts/ssislogo.png" alt="ssis" width="40" height="40"/> </a>
-  <a href="https://networkx.org/" target="_blank" rel="noreferrer"> <img src="https://networkx.org/_static/networkx_logo.svg" alt="networkx" width="40" height="40"/> </a>
-  <a href="https://colab.google/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="google colab" width="40" height="40"/> </a>
+  <a href="https://flourish.studio/" target="_blank" rel="noreferrer"> <img src="https://cdn.flourish.studio/uploads/favicons/favicon-32x32.png" alt="Flourish" width="40" height="40"/> </a>
+  <!-- Cloud Platforms -->
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
 </p>
+
+## Featured Projects
+- 🌾 **AI-Driven Crop Monitoring**: A dashboard for farmers to track and optimize crop performance using satellite data and AI models.
+- 🌍 **Carbon Footprint Estimator**: A data-driven tool to estimate and reduce the environmental impact of supply chains.
+- 🌦️ **Climate Resilience Modeling**: Predictive analytics to assess and mitigate climate risks in agriculture.
 
 ## GitHub Stats
 <p align="center">
@@ -54,19 +43,15 @@ I'm Youssra Abouelmawahib, a data science enthusiast driven by a love for solvin
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssra1999&layout=compact&show_icons=true&theme=merko&locale=en&count_private=true&langs_count=6" alt="youssra1999" />
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssra1999&theme=dark" alt="GitHub Streak" />
 </p>
 
-
-
 ## Connect with Me 
 <p align="left">
   <a href="https://linkedin.com/in/youssra-abouelmawahib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssra abouelmawahib" height="30" width="40" /></a>
-  <a href="https://fb.com/youssra ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssra ab" height="30" width="40" /></a>
 </p>
 
-## Join the Guild of Visionaries:
+## Join the Climate Innovators:
 ![Profile views](https://komarev.com/ghpvc/?username=youssra1999)
 ![Followers](https://img.shields.io/github/followers/youssra1999?style=social)
