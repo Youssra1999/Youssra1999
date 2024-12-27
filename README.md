@@ -23,7 +23,7 @@ I'm Youssra Abouelmawahib, a data scientist passionate about leveraging artifici
   <a href="https://pytorch.org/docs/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="40" height="40"/> </a>
   <!-- Geospatial and Environmental Tools -->
   <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"> <img src="https://sanborn.com/wp-content/uploads/GoogleEarthEngine-1.png" alt="Google Earth Engine" width="40" height="40"/> </a>
-  <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/QGIS_logo_new.png" alt="QGIS" width="40" height="40"/> </a>
+  <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/img/logosign.svg" alt="QGIS" width="40" height="40"/> </a>
   <!-- Data Visualization -->
   <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="40" height="40"/> </a>
   <a href="https://flourish.studio/" target="_blank" rel="noreferrer"> <img src="https://flourish.studio/images/Flourish_Logo_Black_small.png" alt="Flourish" width="40" height="40"/> </a>
