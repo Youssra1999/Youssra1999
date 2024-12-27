@@ -22,11 +22,11 @@ I'm Youssra Abouelmawahib, a data scientist passionate about leveraging artifici
   <a href="https://scikit-learn.org/0.21/documentation.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/> </a>
   <a href="https://pytorch.org/docs/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="40" height="40"/> </a>
   <!-- Geospatial and Environmental Tools -->
-  <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"> <img src="https://sanborn.com/wp-content/uploads/GoogleEarthEngine-1.png" alt="Google Earth Engine" width="40" height="40"/> </a>
+  <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"> <img src="https://b.thumbs.redditmedia.com/X9PQAO7ZF1oj5ZxFmgWBFHP-xzqHlRJoUxnzBno2jcA.png" alt="Google Earth Engine" width="40" height="40"/> </a>
   <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/img/logosign.svg" alt="QGIS" width="40" height="40"/> </a>
   <!-- Data Visualization -->
   <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="40" height="40"/> </a>
-  <a href="https://flourish.studio/" target="_blank" rel="noreferrer"> <img src="https://flourish.studio/images/Flourish_Logo_Black_small.png" alt="Flourish" width="40" height="40"/> </a>
+  
   <!-- Cloud Platforms -->
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
