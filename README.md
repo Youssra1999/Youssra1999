@@ -22,9 +22,7 @@ I'm Youssra Abouelmawahib, a data scientist passionate about leveraging artifici
   <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/img/logosign.svg" alt="QGIS" width="40" height="40"/> </a>
   <!-- Data Visualization -->
   <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="40" height="40"/> </a>
-  
-  <!-- Cloud Platforms -->
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/> </a>
+   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
 </p>
 
