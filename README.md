@@ -1,12 +1,4 @@
 
-
-<h1 align="center">Hello World 🌍</h1>
-<h3 align="center">Harnessing AI for Sustainable Agriculture and Climate Action</h3>
-
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
-</p>
-
 ## About Me
 I'm Youssra Abouelmawahib, a data scientist passionate about leveraging artificial intelligence to drive sustainable solutions in agriculture and environmental conservation. 
 
