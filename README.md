@@ -8,12 +8,7 @@
 </p>
 
 ## About Me
-I'm Youssra Abouelmawahib, a data scientist passionate about leveraging artificial intelligence to drive sustainable solutions in agriculture and environmental conservation. My mission is to contribute to the fight against climate change by applying cutting-edge technologies to enhance decision-making, optimize resource use, and protect our planet.
-
-- 🌱 I’m currently exploring AI applications in agriculture and environmental monitoring, with a focus on generative AI and geospatial analysis.
-- 🌾 I'm passionate about developing solutions that help farmers adapt to climate change and improve crop yields.
-- 🌎 Ask me about AI for climate action, data-driven sustainability, and environmental analytics.
-- 📫 How to reach me: [youssra.abouelmawahib.19999@gmail.com](mailto:youssra.abouelmawahib.19999@gmail.com)
+I'm Youssra Abouelmawahib, a data scientist passionate about leveraging artificial intelligence to drive sustainable solutions in agriculture and environmental conservation. 
 
 ## Technologies and Tools
 <p align="center">
