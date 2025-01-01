@@ -1,6 +1,6 @@
 
 ## About Me
-I'm Youssra Abouelmawahib, a data scientist passionate about leveraging artificial intelligence to drive sustainable solutions in agriculture and environmental conservation. 
+I'm Youssra Abouelmawahib, a data scientist passionate about leveraging artificial intelligence to drive sustainable solutions in agriculture and precision farming . 
 
 ## Technologies and Tools
 <p align="center">
