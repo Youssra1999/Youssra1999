@@ -18,6 +18,9 @@ I'm Youssra Abouelmawahib, a data scientist passionate about leveraging artifici
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssra1999&theme=dark" alt="GitHub Streak" />
+</p>
 
 ## GitHub Stats
 <p align="center">
@@ -25,9 +28,6 @@ I'm Youssra Abouelmawahib, a data scientist passionate about leveraging artifici
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssra1999&layout=compact&show_icons=true&theme=merko&locale=en&count_private=true&langs_count=6" alt="youssra1999" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssra1999&theme=dark" alt="GitHub Streak" />
-</p>
 
 ## Connect with Me 
 <p align="left">
