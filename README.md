@@ -30,6 +30,8 @@ I'm Youssra Abouelmawahib, a data scientist passionate about leveraging artifici
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssra1999&theme=dark" alt="GitHub Streak" />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=youssra199)](https://git.io/streak-stats)
+
 
 ## Connect with Me 
 <p align="left">
