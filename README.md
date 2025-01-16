@@ -4,6 +4,11 @@
 
 ---
 
+[![NirZak Profile Views](https://github.com/youssra1999/youssra1999-profile-views/blob/master/svg/profile/badge.svg)](https://github.com/youssra1999/nirzak-profile-views)
+[![Metrics](https://github.com/youssra1999/youssra1999/actions/workflows/metrics.yml/badge.svg)](https://github.com/youssra1999/youssra1999/actions/workflows/metrics.yml)
+
+---
+
 ## 🌟 Technologies and Tools
 
 <p align="center">
