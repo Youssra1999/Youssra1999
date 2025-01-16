@@ -62,7 +62,6 @@ These projects demonstrate my commitment to applying AI in ways that drive effic
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssra1999&layout=compact&show_icons=true&theme=merko&locale=en&count_private=true&langs_count=6" alt="Repos per Language" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=youssra1999&theme=dark)](https://git.io/streak-stats)
 
 ---
 
