@@ -25,11 +25,6 @@ I'm Youssra Abouelmawahib, a data scientist passionate about leveraging artifici
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssra1999&layout=compact&show_icons=true&theme=merko&locale=en&count_private=true&langs_count=6" alt="youssra1999" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssra1999&theme=dark" alt="GitHub Streak" />
-</p>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youssra1999)](https://git.io/streak-stats)
 
 
