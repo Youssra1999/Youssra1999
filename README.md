@@ -1,5 +1,10 @@
 # About Me
 
+<p align="center">
+  <a href="https://github.com/Youssra1999>
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Youssra Abouelmawahib" /></a>
+</p>
+
 👋 Hi there! I'm **Youssra Abouelmawahib**, a passionate **Data Scientist** dedicated to harnessing the power of **Artificial Intelligence** to drive transformative solutions across various industries. My mission is to engineer AI frameworks that enable cross-industry transformations and positively impact the world.
 
 ---
