@@ -89,7 +89,6 @@ These projects demonstrate my commitment to applying AI in ways that drive effic
 
 ---
 
-![Github Trophies](https://youssra1999-trophies.vercel.app/?username=Youssra1999&theme=gruvbox&row=2&column=5&margin-h=2&margin-w=2&no-frame=true&count_private=true)
 
 ## 🌱 Join the AI Innovators
 
