@@ -12,7 +12,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Youssra1999)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Youssra1999&theme=radical)](https://git.io/streak-stats)
 
 --
 
