@@ -12,6 +12,10 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Youssra1999)](https://git.io/streak-stats)
+
+--
+
 
 ## 🌟 Technologies and Tools
 
