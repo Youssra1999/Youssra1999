@@ -61,4 +61,4 @@ I believe in the power of **data-driven insights** to address real-world problem
 
 ---
 
-Feel free to connect with me [here](https://github.com/Youssra1999) to explore my repositories and contributions to data science and AI research!
+Feel free to connect with me [here](https://www.linkedin.com/in/youssra-abouelmawahib-263509326/) to explore my repositories and contributions to data science and AI research!
