@@ -1,17 +1,15 @@
 # About Me
 
+👋 Hi, I'm **Youssra Abouelmawahib**, a **Data Scientist** and a passionate learner driven by the desire to explore how **Artificial Intelligence** can address global challenges. With a strong foundation in mathematics, programming, and geospatial analysis, I aspire to contribute to innovative solutions in **climate change** and **sustainability** through research and practical applications.
 
-
-👋 Hi, I'm **Youssra Abouelmawahib**, a **Data Scientist** and aspiring **AI Researcher** passionate about leveraging cutting-edge technology to solve global challenges. With a strong foundation in mathematics, programming, and geospatial analysis, my vision is to harness **Artificial Intelligence** to drive impactful solutions, particularly in **climate change** and **sustainability**.
-
-I believe in the power of **data-driven insights** to address real-world problems and thrive on bridging the gap between **science and actionable impact**. My journey is defined by curiosity, continuous learning, and a mission to contribute meaningfully to the AI and environmental domains.
+I believe in the power of **data-driven insights** to create meaningful impact and thrive on bridging the gap between **theory and actionable solutions**. My journey is fueled by curiosity, continuous learning, and a deep interest in advancing AI for environmental and societal benefit.
 
 ---
 
-## 🌍 Research Focus
-- **AI for Climate Solutions**: Developing intelligent models to monitor, predict, and mitigate climate change impacts.
-- **Geospatial Analytics**: Harnessing tools like Google Earth Engine and QGIS for environmental monitoring.
-- **Ethical AI**: Ensuring responsible use of AI for societal and ecological betterment.
+## 🌍 Areas of Interest
+- **AI for Climate Solutions**: Exploring intelligent models to monitor, predict, and mitigate climate change impacts.
+- **Geospatial Analytics**: Utilizing tools like Google Earth Engine and QGIS for environmental monitoring.
+- **Ethical AI**: Advocating for responsible and equitable use of AI to benefit society and the planet.
 
 ---
 
@@ -57,8 +55,8 @@ I believe in the power of **data-driven insights** to address real-world problem
 
 ## 📈 Current Projects
 - **Inland Water Monitoring**: Leveraging Google Earth Engine and Python to analyze and track water body dynamics over time.
-- **Climate Data Modeling**: Building AI frameworks to predict and analyze climate trends.
+- **Climate Data Exploration**: Building frameworks to analyze and interpret climate data for actionable insights.
 
 ---
 
-Feel free to connect with me [here](https://www.linkedin.com/in/youssra-abouelmawahib-263509326/) to explore my repositories and contributions to data science and AI research!
+Feel free to connect with me [here](https://www.linkedin.com/in/youssra-abouelmawahib-263509326/) to explore my repositories and discuss ideas in data science, AI, and sustainability!
