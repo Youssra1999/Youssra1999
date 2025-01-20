@@ -1,10 +1,6 @@
 # About Me
 
-<p align="center">
-  <a href="https://github.com/Youssra1999">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Youssra Abouelmawahib" />
-  </a>
-</p>
+
 
 👋 Hi, I'm **Youssra Abouelmawahib**, a **Data Scientist** and aspiring **AI Researcher** passionate about leveraging cutting-edge technology to solve global challenges. With a strong foundation in mathematics, programming, and geospatial analysis, my vision is to harness **Artificial Intelligence** to drive impactful solutions, particularly in **climate change** and **sustainability**.
 
