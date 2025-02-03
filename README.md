@@ -1,64 +1,52 @@
-# About Me
+# 🚀 Youssra Abouelmawahib | Data Scientist
 
-👋 Hi, I'm **Youssra Abouelmawahib**, a **Data Scientist** and a passionate learner driven by the desire to explore how **Artificial Intelligence** can address global challenges. With a strong foundation in mathematics, programming, and geospatial analysis, I aspire to contribute to innovative solutions in **climate change** and **sustainability** through research and practical applications.
+Hi, I'm **Youssra Abouelmawahib**, a **Data Scientist** with a deep passion for leveraging **AI and Data Science** to tackle real-world challenges. With a strong background in **Mathematics, Machine Learning, and Geospatial Analytics**, I thrive at the intersection of research and practical applications, aiming to drive **innovation in climate change and sustainability**.
 
-I believe in the power of **data-driven insights** to create meaningful impact and thrive on bridging the gap between **theory and actionable solutions**. My journey is fueled by curiosity, continuous learning, and a deep interest in advancing AI for environmental and societal benefit.
-
----
-
-## 🌍 Areas of Interest
-- **AI for Climate Solutions**: Exploring intelligent models to monitor, predict, and mitigate climate change impacts.
-- **Geospatial Analytics**: Utilizing tools like Google Earth Engine and QGIS for environmental monitoring.
-- **Ethical AI**: Advocating for responsible and equitable use of AI to benefit society and the planet.
+I believe in **data-driven impact**, continuous learning, and pushing the boundaries of **AI for environmental and societal benefit**. Passion, curiosity, and resilience fuel my journey.
 
 ---
 
-## 🔧 Technologies and Tools
+## 🌍 Areas of Expertise
+- **AI for Climate & Sustainability** → Developing intelligent models to monitor and mitigate climate impacts.
+- **Geospatial Data Science** → Harnessing tools like **Google Earth Engine, QGIS** for environmental monitoring.
+- **Ethical AI** → Advocating for responsible AI practices that benefit both people and the planet.
+
+---
+
+## 🔬 Current Research & Projects
+- **🌊 Inland Water Monitoring** → Tracking water body dynamics using **Google Earth Engine & Python**.
+- **📊 Climate Data Analysis** → Exploring large-scale climate datasets to extract actionable insights.
+- **🤖 AI & Code Generation** → Investigating LLMs for automatic code generation and cybersecurity applications.
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://b.thumbs.redditmedia.com/X9PQAO7ZF1oj5ZxFmgWBFHP-xzqHlRJoUxnzBno2jcA.png" alt="Google Earth Engine" width="40" height="40"/>
-  </a>
-  <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer">
-    <img src="https://www.qgis.org/img/logosign.svg" alt="QGIS" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50" height="50"/>
+  <img src="https://b.thumbs.redditmedia.com/X9PQAO7ZF1oj5ZxFmgWBFHP-xzqHlRJoUxnzBno2jcA.png" alt="Google Earth Engine" width="50" height="50"/>
+  <img src="https://www.qgis.org/img/logosign.svg" alt="QGIS" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="50"/>
 </p>
 
 ---
 
-## 📊 Key Skills
-- **Programming**: Python, R, SQL
-- **Machine Learning**: Model building, Scikit-learn, PyTorch
-- **Data Visualization**: Power BI, Matplotlib, Seaborn
-- **Geospatial Analysis**: Google Earth Engine, QGIS
-- **Cloud Platforms**: AWS, Google Cloud
+## 💡 Core Skills
+- **Programming:** Python, R, SQL
+- **Machine Learning:** Scikit-learn, PyTorch
+- **Data Visualization:** Matplotlib, Seaborn, Power BI
+- **Geospatial Analytics:** Google Earth Engine, QGIS
+- **Cloud Platforms:** AWS, Google Cloud
 
 ---
 
-## 📈 Current Projects
-- **Inland Water Monitoring**: Leveraging Google Earth Engine and Python to analyze and track water body dynamics over time.
-- **Climate Data Exploration**: Building frameworks to analyze and interpret climate data for actionable insights.
+## 🔥 Let's Connect
+📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+🌐 LinkedIn: [linkedin.com/in/youssra](https://linkedin.com/in/youssra)  
+🔗 GitHub: [github.com/YoussraAb](https://github.com/YoussraAb)
 
----
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssra1999&theme=dark" alt="realpuneetsharma" /></p>
----
-
-Feel free to connect with me [here](https://www.linkedin.com/in/youssra-abouelmawahib-263509326/) to explore my repositories and discuss ideas in data science, AI, and sustainability!
+🚀 *Always eager to collaborate and explore new research opportunities!*
