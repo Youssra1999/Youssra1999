@@ -44,9 +44,16 @@ I believe in **data-driven impact**, continuous learning, and pushing the bounda
 
 ---
 
+## 📈 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssra1999&theme=dark" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## 🔥 Let's Connect
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-🌐 LinkedIn: [linkedin.com/in/youssra](https://linkedin.com/in/youssra)  
-🔗 GitHub: [github.com/YoussraAb](https://github.com/YoussraAb)
+📧 Email: [youssra@gmail.com](mailto:youssra.abouelmawahib.19999@gmail.com)  
+🌐 LinkedIn: [linkedin.com/in/youssra](https://www.linkedin.com/in/youssra-a-263509326/)  
+🔗 GitHub: [github.com/YoussraAb](https://github.com/Youssra1999)
 
 🚀 *Always eager to collaborate and explore new research opportunities!*
