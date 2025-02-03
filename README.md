@@ -58,5 +58,7 @@ I believe in the power of **data-driven insights** to create meaningful impact a
 - **Climate Data Exploration**: Building frameworks to analyze and interpret climate data for actionable insights.
 
 ---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssra1999&theme=dark" alt="realpuneetsharma" /></p>
+---
 
 Feel free to connect with me [here](https://www.linkedin.com/in/youssra-abouelmawahib-263509326/) to explore my repositories and discuss ideas in data science, AI, and sustainability!
