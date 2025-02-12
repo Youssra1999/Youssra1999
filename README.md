@@ -1,27 +1,29 @@
-# 🚀 Youssra Abouelmawahib | Data Scientist
+# 🚀 Youssra Abouelmawahib | Data Scientist  
 
-Hi, I'm **Youssra Abouelmawahib**, a **Data Scientist** with a deep passion for leveraging **AI and Data Science** to tackle real-world challenges. With a strong background in **Mathematics, Machine Learning, and Geospatial Analytics**, I thrive at the intersection of research and practical applications, aiming to drive **innovation in climate change and sustainability**.
+Hi, I'm **Youssra Abouelmawahib**, a **Data Scientist** with a deep passion for leveraging **AI and Data Science** to tackle real-world challenges.  
+I specialize in **Geospatial Analytics (GIS)** and **Artificial Intelligence (AI)**, with a mission to drive **innovation in climate change and sustainability**.  
 
-I believe in **data-driven impact**, continuous learning, and pushing the boundaries of **AI for environmental and societal benefit**. Passion, curiosity, and resilience fuel my journey.
-
----
-
-## 🌍 Areas of Expertise
-- **AI for Climate & Sustainability** → Developing intelligent models to monitor and mitigate climate impacts.
-- **Geospatial Data Science** → Harnessing tools like **Google Earth Engine, QGIS** for environmental monitoring.
-- **Ethical AI** → Advocating for responsible AI practices that benefit both people and the planet.
+I believe in **data-driven impact**, continuous learning, and pushing the boundaries of **AI for environmental and societal benefit**.  
+Passion, curiosity, and resilience fuel my journey.  
 
 ---
 
-## 🔬 Current Research & Projects
-- **🌊 Inland Water Monitoring** → Tracking water body dynamics using **Google Earth Engine & Python**.
-- **📊 Climate Data Analysis** → Exploring large-scale climate datasets to extract actionable insights.
-- **🤖 AI & Code Generation** → Investigating LLMs for automatic code generation and cybersecurity applications.
+## 🌍 Areas of Expertise  
+- **🌐 GIS & Geospatial Data Science** → Harnessing tools like **Google Earth Engine, QGIS** for environmental monitoring and spatial analytics.  
+- **🤖 Artificial Intelligence & Machine Learning** → Building intelligent systems to solve complex problems.  
+- **♻️ AI for Climate & Sustainability** → Developing models to monitor and mitigate climate impacts.  
+- **🔒 Ethical AI** → Advocating for responsible AI practices that benefit both people and the planet.  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🔬 Current Research & Projects  
+- **🌊 Inland Water Monitoring** → Tracking water body dynamics using **Google Earth Engine & Python**.  
+- **📊 Climate Data Analysis** → Exploring large-scale climate datasets to extract actionable insights.  
+- **🤖 AI & Code Generation** → Investigating LLMs for automatic code generation and cybersecurity applications.  
 
+---
+
+## 🛠️ Tech Stack & Tools  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
@@ -35,21 +37,19 @@ I believe in **data-driven impact**, continuous learning, and pushing the bounda
 
 ---
 
-## 💡 Core Skills
-- **Programming:** Python, R, SQL
-- **Machine Learning:** Scikit-learn, PyTorch
-- **Data Visualization:** Matplotlib, Seaborn, Power BI
-- **Geospatial Analytics:** Google Earth Engine, QGIS
-- **Cloud Platforms:** AWS, Google Cloud
+## 💡 Core Skills  
+- **Programming:** Python, R, SQL  
+- **Machine Learning:** Scikit-learn, PyTorch  
+- **Data Visualization:** Matplotlib, Seaborn, Power BI  
+- **Geospatial Analytics (GIS):** Google Earth Engine, QGIS  
+- **Cloud Platforms:** AWS, Google Cloud  
 
 ---
 
-## 📈 GitHub Streak
+## 📈 GitHub Streak  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssra1999&theme=dark" alt="GitHub Streak"/>
 </p>
-
----
 
 ## 🔥 Let's Connect
 📧 Email: [youssra@gmail.com](mailto:youssra.abouelmawahib.19999@gmail.com)  
