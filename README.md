@@ -1,4 +1,5 @@
-# 🚀 Youssra Abouelmawahib | Data Scientist  
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 
 Hi, I'm **Youssra Abouelmawahib**, a **Data Scientist** with a deep passion for leveraging **AI and Data Science** to tackle real-world challenges.  
 I specialize in **Geospatial Analytics (GIS)** and **Artificial Intelligence (AI)**, with a mission to drive **innovation in climate change and sustainability**.  
