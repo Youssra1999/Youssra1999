@@ -20,7 +20,6 @@ I am a **Data Analyst at Canmar Produce** with a strong passion for leveraging *
 ## 🔬 **Current Projects**
 - **🌾 Agrifood Data Analytics** → Analyzing production trends to optimize agricultural output.
 - **🚛 Supply Chain Insights** → Tracking logistics and inventory for improved efficiency.
-- **📊 Website Data Integration** → Embedding interactive analytics dashboards for Canmar Produce operations.
 - **🌍 Geospatial Data for Agribusiness** → Leveraging GIS for farm and resource management.
 
 ---
