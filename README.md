@@ -2,7 +2,7 @@
 
 # Hi, I'm **Youssra Abouelmawahib** 👋
 
-### **Data Analyst | Agrifood & Supply Chain Analytics | Website Integration**
+### **Data Analyst | Agrifood & Supply Chain Analytics **
 
 I am a **Data Analyst at Canmar Produce** with a strong passion for leveraging **data-driven insights** to enhance decision-making in the **agrifood industry and supply chain management**. My expertise spans **data analytics, machine learning, and business intelligence**, and I’m currently working on integrating **data solutions into Canmar Produce's website** to streamline operations and improve efficiency.
 
