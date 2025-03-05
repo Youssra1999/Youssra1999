@@ -4,23 +4,6 @@
 
 ### **Data Analyst | Agrifood & Supply Chain Analytics**
 
-I am a **Data Analyst at Canmar Produce** with a strong passion for leveraging **data-driven insights** to enhance decision-making in the **agrifood industry and supply chain management**. My expertise spans **data analytics, machine learning, and business intelligence**, and I’m currently working on integrating **data solutions into Canmar Produce** to streamline operations and improve efficiency.
-
----
-
-## 🚀 **Areas of Expertise**
-- **📊 Data Analytics & Business Intelligence** → Turning raw data into actionable insights.
-- **🌱 Agrifood Industry Analytics** → Optimizing agricultural production and distribution.
-- **📦 Supply Chain Optimization** → Enhancing logistics and operational efficiency.
-- **🌍 Geospatial & Environmental Data** → Leveraging GIS for sustainable resource management.
-- **💻 Website Integration** → Embedding data solutions for better user experiences.
-
----
-
-## 🔬 **Current Projects**
-- **🌾 Agrifood Data Analytics** → Analyzing production trends to optimize agricultural output.
-- **🚛 Supply Chain Insights** → Tracking logistics and inventory for improved efficiency.
-- **🌍 Geospatial Data for Agribusiness** → Leveraging GIS for farm and resource management.
 
 ---
 
